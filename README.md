@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-<!--
 **Computer Vision / ML Engineer with 2+ years of commercial experience in computer vision, classical ML, and deep learning. I work on applied CV systems for robotics and embedded platforms.
 
 Here are some ideas to get you started:
@@ -58,8 +56,6 @@ Telegram: @sash_andr
 
 Email: anderaleksander@yandex.ru
 
-
--->
 
 
 
