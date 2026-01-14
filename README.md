@@ -11,7 +11,7 @@ Computer Vision / ML Engineer with 2+ years of commercial experience in computer
 
 ## 🛠 Tech Stack
 
-Languages & Tools: Python, SQL, Git, Docker, LinuxCV & ML: OpenCV, PyTorch, YOLO, NumPy, Pandas, SciPy, scikit-learnRobotics: ROS, LIDAR, RoboDK, NVIDIA Jetson
+Python, C++, SQL, Git, Docker, OpenCV, PyTorch, NumPy, Pandas, SciPy, scikit-learn, YOLO, ROS, LIDAR, RoboDK, NVIDIA Jetson
 
 ## 💼 Experience Highlights
 
